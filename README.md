@@ -50,7 +50,7 @@ Important Note
 
 Documentation
 -------------
-Documenatation of the library can be found at http://cs.jhu.edu/~pchalas1/pythonLibDoc/annotated.html
+Documenatation of the library can be found at http://pchalas1.github.io/libWall/
 
 
 Please mail pchalas1@hotmail.com to report any kind of bugs
