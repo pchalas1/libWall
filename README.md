@@ -38,7 +38,7 @@ Tutorial Files
 - **video_browser**  : Simple video browser application.
 - **bouncing_ball**  : Fun application which display few balls and let them bounce accross the walls of the screen and with themselves.
 - **model_browser**  : To load a model and display on the screen.
-- **solar_system**   : Its just a testing application that can be used for bug testing. (**Not Important**)
+- **solar_system**   : Its just a testing application that can be used for bug testing. **(Not Important)**
 
 Important Note 
 -------------- 
