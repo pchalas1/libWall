@@ -1,7 +1,7 @@
 Modulair Python Library
 =======================
 
-This library helps user to create applications for Balaur Wall. It is still under development, however the library files are located in scripts/wall. There are some sample applications that will guide you through the library functionality.
+This library helps user to create applications for Balaur Wall. It is still under development, however there are some sample applications that will guide you through the library functionality.
 
 Library Files
 -------------
