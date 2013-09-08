@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$d7/dec/a00010.html#a4f4c06c4441f95049ca5f129264236b4" title="Apply material properties the model." alt="" coords="158,5,278,35"/>
+<area shape="rect" id="node5" href="$de/d21/a00006.html#a61ea7a604c39228fab07eda8493d47b8" title="Renders the group effects." alt="" coords="130,59,306,88"/>
+<area shape="rect" id="node7" href="$d4/dee/a00008.html#a61ea7a604c39228fab07eda8493d47b8" title="Render all light sources on to the scene." alt="" coords="120,112,315,141"/>
+<area shape="rect" id="node9" href="$de/d5e/a00007.html#a61ea7a604c39228fab07eda8493d47b8" title="Render the light source." alt="" coords="128,165,307,195"/>
+<area shape="rect" id="node11" href="$da/da0/a00009.html#a61ea7a604c39228fab07eda8493d47b8" title="wall.gl_material.Material.render" alt="" coords="116,219,319,248"/>
+</map>
