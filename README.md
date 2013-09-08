@@ -17,15 +17,15 @@ Library Files
 - **gl_camera**      : Setup a camera to view a scene and display on the viewport. A camera can be placed at any point on the screen by giving it a positon of the eye,i.e camera, position of the reference point and direction of up vector.
 - **gl_frame**       : Frame with a translation and a rotation. Helps to store a transformation matrix.
 - **gl_vec3**		 : 3D Vector class. Helps to store a vector with functionality of a normal vector.
-- **gl_group**       : TODO
+- **gl_group**       : **TODO**
 - **gl_lighting**    : Setup lighting for the scene. Used mainly to enable single/multiple Light sources. These light sources have many properties like diffusion, ambience etc .
 - **gl_material**    : This refers to the properties of an object that determine how it interacts with light. Material properties like shininess, specularity etc have to binded with the objects.
-- **gl_matrix**      : TODO
+- **gl_matrix**      : **TODO**
 - **gl_model**       : Helps to load a model. Right now it has an auto rotate feature.
 - **gl_object**      : Currently only sphere object is available. 
 - **gl_quad**        : To create a quad, which basically is a rectangle, but this quad class helps to load an image onto it.
 - **gl_rect**        : Create a recatangle object. 
-- **gl_rot3x3**      : Rotation Matrix TODO
+- **gl_rot3x3**      : Rotation Matrix **TODO**
 - **gl_utils**       : Utility class, containing basic functinality of loading a video or image etc
 - **gl_wall_canvas** : Low level Wrapper of ModulairAppWidget. Parent this class to obtain Qt Context to execute your QGLWidget
 - **gl_widget_base** : Low level Wrapper of Qt Opengl.QGLWidget. Parent this class to obtain OpenGL Context.
@@ -38,7 +38,7 @@ Tutorial Files
 - **video_browser**  : Simple video browser application.
 - **bouncing_ball**  : Fun application which display few balls and let them bounce accross the walls of the screen and with themselves.
 - **model_browser**  : To load a model and display on the screen.
-- **solar_system**   : Its just a testing application that can be used for bug testing. (Not Important)
+- **solar_system**   : Its just a testing application that can be used for bug testing. (**Not Important**)
 
 Important Note 
 -------------- 
