@@ -40,5 +40,9 @@ Important Note
 
 - To launch the applicaiton, call roslaunch modulair_apps_python application_name.
 
+Documentation
+-------------
+Documenatation of the library can be found at http://cs.jhu.edu/~pchalas1/pythonLibDoc/annotated.html
 
------- Please mail pchalas1@jh.edu to report any kind of bugs ------
+
+Please mail pchalas1@hotmail.com to report any kind of bugs
