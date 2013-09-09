@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['scale',['scale',['../df/d86/a00012.html#ac90675a9278f2367033767749bd9a1fd',1,'wall::gl_object::Sphere.scale()'],['../da/d45/a00011.html#ac90675a9278f2367033767749bd9a1fd',1,'wall::gl_rect::Rectangle.scale()']]],
+  ['scale',['scale',['../d7/dd4/a00013.html#ac90675a9278f2367033767749bd9a1fd',1,'wall::gl_object::Sphere.scale()'],['../df/d86/a00012.html#ac90675a9278f2367033767749bd9a1fd',1,'wall::gl_rect::Rectangle.scale()']]],
   ['set',['set',['../de/d21/a00006.html#a621bd5e22d03cc48dbb784427b1c0fd8',1,'wall::gl_lighting::Light']]],
-  ['set_5fframe_5ftexture',['set_frame_texture',['../d7/dec/a00010.html#a8d9837a56139b3d05564419156580876',1,'wall::gl_quad::Quad']]],
-  ['set_5fimage_5ftexture',['set_image_texture',['../d7/dec/a00010.html#a0499277cb8dbe4c7c55af33a0ee2ee82',1,'wall::gl_quad::Quad']]],
+  ['set_5fframe_5ftexture',['set_frame_texture',['../d7/dec/a00010.html#a8d9837a56139b3d05564419156580876',1,'wall::gl_quad1::Quad']]],
+  ['set_5fimage_5ftexture',['set_image_texture',['../d7/dec/a00010.html#a0499277cb8dbe4c7c55af33a0ee2ee82',1,'wall::gl_quad1::Quad']]],
   ['setambient',['setAmbient',['../d4/dee/a00008.html#a123dec51ee56a062f9f21ef31879be89',1,'wall::gl_material::Material']]],
   ['setambientdiffuse',['setAmbientDiffuse',['../d4/dee/a00008.html#a1277007584ee49d1ae5029b0c757d605',1,'wall::gl_material::Material']]],
   ['setcameranumber',['setCameraNumber',['../d8/d84/a00001.html#a00fbf509904e0e1340555142f2d09db7',1,'wall::gl_camera::Camera']]],
@@ -12,13 +12,13 @@ var searchData=
   ['setemission',['setEmission',['../d4/dee/a00008.html#aba2314ba03e896994fddf49c4bf75885',1,'wall::gl_material::Material']]],
   ['seteye',['setEye',['../d8/d84/a00001.html#a53d0acac43dbab7cc514c31488d9cb67',1,'wall::gl_camera::Camera']]],
   ['setlight',['setLight',['../de/d5e/a00007.html#a49b810e11b7f16fa1de159052b9311d9',1,'wall::gl_lighting::Lighting']]],
-  ['setmaketexcoords',['setMakeTexCoords',['../df/d86/a00012.html#ad152774a122b7ac11a8e796e83411965',1,'wall::gl_object::Sphere']]],
+  ['setmaketexcoords',['setMakeTexCoords',['../d7/dd4/a00013.html#ad152774a122b7ac11a8e796e83411965',1,'wall::gl_object::Sphere']]],
   ['setprojection',['setProjection',['../d8/d84/a00001.html#a3fc593fbc1301bcee16928fd5d8ae17a',1,'wall::gl_camera::Camera']]],
   ['setshineness',['setShineness',['../d4/dee/a00008.html#a15e271fdd432b0a48622f796ebcccc54',1,'wall::gl_material::Material']]],
   ['setspecular',['setSpecular',['../d4/dee/a00008.html#ae812ab0b194ed02dec741b5b922bf6eb',1,'wall::gl_material::Material']]],
   ['setup',['setUp',['../d8/d84/a00001.html#ac47956db61147fc100027de51240dcd7',1,'wall::gl_camera::Camera']]],
-  ['setxrange',['setXRange',['../df/d86/a00012.html#ae91a378868e920d9e9f5a355b52e3b5f',1,'wall::gl_object::Sphere']]],
-  ['setyrange',['setYRange',['../df/d86/a00012.html#a9ffd070ab7266c217258e65a2253a3f0',1,'wall::gl_object::Sphere']]],
-  ['setzrange',['setZRange',['../df/d86/a00012.html#a4a3f297f724c63181811d44eed57f8c4',1,'wall::gl_object::Sphere']]],
-  ['speed',['speed',['../df/d86/a00012.html#a9a513e86ff9820dbe4f20ac90865fd34',1,'wall::gl_object::Sphere']]]
+  ['setxrange',['setXRange',['../d7/dd4/a00013.html#ae91a378868e920d9e9f5a355b52e3b5f',1,'wall::gl_object::Sphere']]],
+  ['setyrange',['setYRange',['../d7/dd4/a00013.html#a9ffd070ab7266c217258e65a2253a3f0',1,'wall::gl_object::Sphere']]],
+  ['setzrange',['setZRange',['../d7/dd4/a00013.html#a4a3f297f724c63181811d44eed57f8c4',1,'wall::gl_object::Sphere']]],
+  ['speed',['speed',['../d7/dd4/a00013.html#a9a513e86ff9820dbe4f20ac90865fd34',1,'wall::gl_object::Sphere']]]
 ];

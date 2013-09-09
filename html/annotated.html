@@ -88,19 +88,20 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!--header-->
 <div class="contents">
 <div class="textblock">Here are the classes, structs, unions and interfaces with brief descriptions:</div><table>
-  <tr><td class="indexkey"><a class="el" href="d8/d84/a00001.html">Camera</a></td><td class="indexvalue">Setup a camera to view a scene and display on the viewport </td></tr>
-  <tr><td class="indexkey"><a class="el" href="d7/d46/a00002.html">Frame</a></td><td class="indexvalue"><a class="el" href="d7/d46/a00002.html" title="Frame with a translation and a rotation.">Frame</a> with a translation and a rotation </td></tr>
+  <tr><td class="indexkey"><a class="el" href="d8/d84/a00001.html">Camera</a></td><td class="indexvalue">Setup a camera to view a scene and display on the viewport. A camera can be placed at any point on the screen by giving it a positon of the eye,i.e camera, position of the reference point and direction of up vector </td></tr>
+  <tr><td class="indexkey"><a class="el" href="d7/d46/a00002.html">Frame</a></td><td class="indexvalue"><a class="el" href="d7/d46/a00002.html" title="Frame with a translation and a rotation. Helps to store a transformation matrix.">Frame</a> with a translation and a rotation. Helps to store a transformation matrix </td></tr>
   <tr><td class="indexkey"><a class="el" href="d1/d7c/a00003.html">GLWallCanvas</a></td><td class="indexvalue">Low level Wrapper of ModulairAppWidget </td></tr>
   <tr><td class="indexkey"><a class="el" href="d0/d0b/a00004.html">GLWidget</a></td><td class="indexvalue">Low level Wrapper of Qt Opengl.QGLWidget </td></tr>
   <tr><td class="indexkey"><a class="el" href="dd/dad/a00005.html">Group</a></td><td class="indexvalue">TODO </td></tr>
   <tr><td class="indexkey"><a class="el" href="de/d21/a00006.html">Light</a></td><td class="indexvalue">Individual <a class="el" href="de/d21/a00006.html" title="Individual Light source properties.">Light</a> source properties </td></tr>
-  <tr><td class="indexkey"><a class="el" href="de/d5e/a00007.html">Lighting</a></td><td class="indexvalue"><a class="el" href="de/d5e/a00007.html" title="Lighting for the scene. Used to enable single/multiple Light sources.">Lighting</a> for the scene. Used to enable single/multiple <a class="el" href="de/d21/a00006.html" title="Individual Light source properties.">Light</a> sources </td></tr>
-  <tr><td class="indexkey"><a class="el" href="d4/dee/a00008.html">Material</a></td><td class="indexvalue"></td></tr>
+  <tr><td class="indexkey"><a class="el" href="de/d5e/a00007.html">Lighting</a></td><td class="indexvalue"><a class="el" href="de/d5e/a00007.html" title="Lighting for the scene. Used to enable single/multiple Light sources. This class helps to setup a lig...">Lighting</a> for the scene. Used to enable single/multiple <a class="el" href="de/d21/a00006.html" title="Individual Light source properties.">Light</a> sources. This class helps to setup a light source at some position on the screen from which light will be emitted </td></tr>
+  <tr><td class="indexkey"><a class="el" href="d4/dee/a00008.html">Material</a></td><td class="indexvalue">This refers to the properties of an object that determine how it interacts with light. <a class="el" href="d4/dee/a00008.html" title="This refers to the properties of an object that determine how it interacts with light. Material properties like shininess, specularity etc have to binded with the objects.">Material</a> properties like shininess, specularity etc have to binded with the objects </td></tr>
   <tr><td class="indexkey"><a class="el" href="da/da0/a00009.html">Model</a></td><td class="indexvalue">: <a class="el" href="da/da0/a00009.html" title=": Model Loader">Model</a> Loader </td></tr>
   <tr><td class="indexkey"><a class="el" href="d7/dec/a00010.html">Quad</a></td><td class="indexvalue">Create a <a class="el" href="d7/dec/a00010.html" title="Create a Quad.">Quad</a> </td></tr>
-  <tr><td class="indexkey"><a class="el" href="da/d45/a00011.html">Rectangle</a></td><td class="indexvalue">Create a <a class="el" href="da/d45/a00011.html" title="Create a Rectangle.">Rectangle</a> </td></tr>
-  <tr><td class="indexkey"><a class="el" href="df/d86/a00012.html">Sphere</a></td><td class="indexvalue">: Create a <a class="el" href="df/d86/a00012.html" title=": Create a Sphere Object">Sphere</a> Object </td></tr>
-  <tr><td class="indexkey"><a class="el" href="d7/dd4/a00013.html">Vec3</a></td><td class="indexvalue">: 3D Vector Class </td></tr>
+  <tr><td class="indexkey"><a class="el" href="da/d45/a00011.html">Quad</a></td><td class="indexvalue">To create a quad, which basically is a rectangle, but this quad class helps to load an image onto it </td></tr>
+  <tr><td class="indexkey"><a class="el" href="df/d86/a00012.html">Rectangle</a></td><td class="indexvalue">Create a <a class="el" href="df/d86/a00012.html" title="Create a Rectangle.">Rectangle</a> </td></tr>
+  <tr><td class="indexkey"><a class="el" href="d7/dd4/a00013.html">Sphere</a></td><td class="indexvalue">: Currently only sphere object is available. Helps to render a sphere on the screen at specified/random position. There are some other features like collision with another sphere, direction to move the sphere etc </td></tr>
+  <tr><td class="indexkey"><a class="el" href="d2/de7/a00014.html">Vec3</a></td><td class="indexvalue">: 3D Vector class. Helps to store a vector with functionality of a normal vector </td></tr>
 </table>
 </div><!-- contents -->
 <!-- window showing the filter options -->
@@ -120,7 +121,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Aug 31 2013 15:10:02 for Modulair Python Library by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Mon Sep 9 2013 11:05:53 for Modulair Python Library by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.7.6.1
 </small></address>

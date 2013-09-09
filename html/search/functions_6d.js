@@ -1,10 +1,10 @@
 var searchData=
 [
-  ['mag',['mag',['../d7/dd4/a00013.html#aa698f46fda5c466f15ffea67a0ef16cd',1,'wall::gl_vec3::Vec3']]],
-  ['make_5fcommandlist',['make_commandlist',['../d7/dec/a00010.html#acd1873165ba7431fde0424bb5872ffa7',1,'wall::gl_quad::Quad']]],
+  ['mag',['mag',['../d2/de7/a00014.html#aa698f46fda5c466f15ffea67a0ef16cd',1,'wall::gl_vec3::Vec3']]],
+  ['make_5fcommandlist',['make_commandlist',['../d7/dec/a00010.html#acd1873165ba7431fde0424bb5872ffa7',1,'wall::gl_quad1::Quad']]],
   ['matrix',['matrix',['../d7/d46/a00002.html#a4b41b2f5fd29c7e3bec6eaab6f68d4ff',1,'wall::gl_frame::Frame']]],
   ['modelviewmatrix',['modelViewMatrix',['../d8/d84/a00001.html#afab64b3438d51c48d611be426f5a29c0',1,'wall::gl_camera::Camera']]],
-  ['move',['move',['../df/d86/a00012.html#af348e10e4e4162711ceedc9841276eb4',1,'wall::gl_object::Sphere.move()'],['../da/d45/a00011.html#af348e10e4e4162711ceedc9841276eb4',1,'wall::gl_rect::Rectangle.move()']]],
+  ['move',['move',['../d7/dd4/a00013.html#af348e10e4e4162711ceedc9841276eb4',1,'wall::gl_object::Sphere.move()'],['../df/d86/a00012.html#af348e10e4e4162711ceedc9841276eb4',1,'wall::gl_rect::Rectangle.move()']]],
   ['movebackward',['moveBackward',['../d8/d84/a00001.html#a9c1c4e2a0af31bfd494e2351ab0acd16',1,'wall::gl_camera::Camera']]],
   ['movecenter',['moveCenter',['../d8/d84/a00001.html#aa1876b004d1fc3b81517f81f55f255f1',1,'wall::gl_camera::Camera']]],
   ['movedown',['moveDown',['../d8/d84/a00001.html#a50768051c3ca31f37ce7f1083ccb05e1',1,'wall::gl_camera::Camera']]],
@@ -13,7 +13,7 @@ var searchData=
   ['moveleft',['moveLeft',['../d8/d84/a00001.html#a5c147480a4face8e130920940fa5a6cb',1,'wall::gl_camera::Camera']]],
   ['moveright',['moveRight',['../d8/d84/a00001.html#a9c19a2efea043f099a704b5af743861d',1,'wall::gl_camera::Camera']]],
   ['moveup',['moveUp',['../d8/d84/a00001.html#afdb41974d2a25a6a714fdeac127e2c1a',1,'wall::gl_camera::Camera']]],
-  ['movex',['moveX',['../df/d86/a00012.html#aa55109d2f213012aaaee9c52679151bb',1,'wall::gl_object::Sphere.moveX()'],['../da/d45/a00011.html#aa55109d2f213012aaaee9c52679151bb',1,'wall::gl_rect::Rectangle.moveX()']]],
-  ['movey',['moveY',['../df/d86/a00012.html#ab7d93d76baec543721a6aa7fa52c9af7',1,'wall::gl_object::Sphere.moveY()'],['../da/d45/a00011.html#ab7d93d76baec543721a6aa7fa52c9af7',1,'wall::gl_rect::Rectangle.moveY()']]],
-  ['movez',['moveZ',['../df/d86/a00012.html#ae90d7eca6103d4114988e4c6b98fde76',1,'wall::gl_object::Sphere.moveZ()'],['../da/d45/a00011.html#ae90d7eca6103d4114988e4c6b98fde76',1,'wall::gl_rect::Rectangle.moveZ()']]]
+  ['movex',['moveX',['../d7/dd4/a00013.html#aa55109d2f213012aaaee9c52679151bb',1,'wall::gl_object::Sphere.moveX()'],['../df/d86/a00012.html#aa55109d2f213012aaaee9c52679151bb',1,'wall::gl_rect::Rectangle.moveX()']]],
+  ['movey',['moveY',['../d7/dd4/a00013.html#ab7d93d76baec543721a6aa7fa52c9af7',1,'wall::gl_object::Sphere.moveY()'],['../df/d86/a00012.html#ab7d93d76baec543721a6aa7fa52c9af7',1,'wall::gl_rect::Rectangle.moveY()']]],
+  ['movez',['moveZ',['../d7/dd4/a00013.html#ae90d7eca6103d4114988e4c6b98fde76',1,'wall::gl_object::Sphere.moveZ()'],['../df/d86/a00012.html#ae90d7eca6103d4114988e4c6b98fde76',1,'wall::gl_rect::Rectangle.moveZ()']]]
 ];
