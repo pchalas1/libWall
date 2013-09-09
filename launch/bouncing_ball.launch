@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="modulair_apps_python" name="bouncing_ball" type="bouncing_ball_app.py" />
+</launch>
