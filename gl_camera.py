@@ -13,7 +13,9 @@ from .gl_utils import *
 class Camera(object):		
 
 	"""	@author Preetham Chalasani
-	@brief Setup a camera to view a scene and display on the viewport.
+	@brief Setup a camera to view a scene and display on the viewport. 
+	A camera can be placed at any point on the screen by giving it a positon of the eye,i.e camera, position of the reference point 
+	and direction of up vector.
 	"""
 
 	def __init__(self, projectionType = None):

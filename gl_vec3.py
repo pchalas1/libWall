@@ -3,7 +3,7 @@ import math
 class Vec3(object):	
 
 	"""@author : Preetham Chalasani
-	@brief : 3D Vector Class
+	@brief : 3D Vector class. Helps to store a vector with functionality of a normal vector.
 	"""
 
 	def __init__(self, *args):		

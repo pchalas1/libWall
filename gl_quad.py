@@ -9,7 +9,8 @@ import threading
 
 class Quad(object):
 
-	"""Create a Quad
+	"""@author : Preetham Chalasani
+	@brief To create a quad, which basically is a rectangle, but this quad class helps to load an image onto it.
 	"""
 
 	def __init__(self, x, y, width, height, image = None, img_type = None):
@@ -23,12 +24,16 @@ class Quad(object):
 		self.__texture = 0		
 
 		if image != None and img_type != None:
-			self.load_texture(image, img_type)
+			self.__load_texture(image, img_type)
 
-		self.__obj = self.make_commandlist()
+		self.__obj = self.__make_commandlist()
 		pass
 
-	def make_commandlist(self):
+	def __make_commandlist(self):
+		
+		"""To make a commandlist which creates the quad with binded textur coordinates.
+		"""
+
 		gen_list = glGenLists(1)
 		glNewList(gen_list, GL_COMPILE)							
 
@@ -53,14 +58,22 @@ class Quad(object):
 
 		return gen_list
 
-	def load_texture(self, image, type):
+	def __load_texture(self, image, type):
+
+		"""Load a texture(image) on to the quad.
+		"""
+
 		if type == 'PIL':
-			self.set_image_texture(image)
+			self.__set_image_texture(image)
 		elif type == 'IPL':
-			self.set_frame_texture(image)
+			self.__set_frame_texture(image)
 		pass
 
-	def set_image_texture(self, image):
+	def __set_image_texture(self, image):
+
+		"""Set texture 
+		"""
+
 		self.__texture_needed = True
 		img_x = image.size[0]
 		img_y = image.size[1]
@@ -80,7 +93,7 @@ class Quad(object):
 		self.update()
 		pass
 
-	def set_frame_texture(self, frame):		
+	def __set_frame_texture(self, frame):		
 		glGenTextures(1, self.__texture)
 		glBindTexture(GL_TEXTURE_2D, self.__texture)
 		
@@ -91,9 +104,17 @@ class Quad(object):
 		pass
 
 	def update(self):
+
+		"""Updates the commandlist
+		"""
+
 		self.__obj = self.make_commandlist()
 		pass
 
-	def draw(self):		
+	def draw(self):
+
+		"""Call the generated commandlist.	
+		"""
+
 		glCallList(self.__obj)
 		pass

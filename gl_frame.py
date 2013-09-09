@@ -7,7 +7,7 @@ import math
 class Frame(object):	
 
 	"""	@author Preetham Chalasani
-	@brief Frame with a translation and a rotation.
+	@brief Frame with a translation and a rotation. Helps to store a transformation matrix.
 	"""
 
 	def __init__(self, rot, trans):

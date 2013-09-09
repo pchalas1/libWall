@@ -14,7 +14,8 @@ import math
 class Sphere(object):	
 
 	""" @author : Preetham Chalasani
-	@brief : Create a Sphere Object with specific number of stacks and slices.
+	@brief : Currently only sphere object is available. 
+	Helps to render a sphere on the screen at specified/random position. There are some other features like collision with another sphere, direction to move the sphere etc.
 	"""
 
 	def __init__(self, *args):
