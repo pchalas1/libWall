@@ -1,7 +1,7 @@
 Modulair Python Library
 =======================
 
-This library helps user to create applications for Balaur Wall. It is still under development, however there are some sample applications that will guide you through the library functionality. [Read more](http://www.cs.jhu.edu/balaur/about.html) about the Balaur Display Wall
+This library helps user to create applications for Balaur Wall. It is still under development, however there are some sample applications that will guide you through the library functionality. [**Read more**](http://www.cs.jhu.edu/balaur/about.html) about the Balaur Display Wall
 
 Dependencies
 ------------
