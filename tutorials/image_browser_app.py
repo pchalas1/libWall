@@ -33,6 +33,7 @@ class ImageBrowserApp(GLWallCanvas):
 
 		self.current_user_event_ = msg
 
+		# Emit qt signal according to the gestures of th user
 		if msg.message == 'left_hand_on_head':
 			self.signal_prev_image.emit()
 		elif msg.message == 'right_hand_on_head':

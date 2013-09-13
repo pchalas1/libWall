@@ -108,7 +108,7 @@ class Quad(object):
 		"""Updates the commandlist
 		"""
 
-		self.__obj = self.make_commandlist()
+		self.__obj = self.__make_commandlist()
 		pass
 
 	def draw(self):
