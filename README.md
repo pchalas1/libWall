@@ -6,6 +6,8 @@ This library helps user to create applications for Balaur Wall. It is still unde
 Dependencies
 ------------
 - Ros      : Installation guide can be found [**here**](http://wiki.ros.org/)
+- Python   : Installation guide can be found [**here**](http://www.python.org/getit/)
+- Numpy    : Installation guide can be found [**here**](http://docs.scipy.org/doc/numpy/user/install.html)
 - Pyopengl : Installation guide can be found [**here**](http://pyopengl.sourceforge.net/documentation/installation.html)
 - PyKDL    : Installation guide can be found [**here**](http://www.orocos.org/kdl/installation-manual)
 - OpenCV   : Installation guide can be found [**here**](http://opencv.willowgarage.com/wiki/InstallGuide)
