@@ -61,7 +61,3 @@ Reference Material
 ------------------
 - [**Opengl Red Book**](http://www.glprogramming.com/red/)
 - [**Opengl Super Bible**](http://www.win.tue.nl/~ymazuryk/books/OpenGL_SB.pdf)
-
-
-
-Please mail pchalas1@hotmail.com to report any kind of bugs
